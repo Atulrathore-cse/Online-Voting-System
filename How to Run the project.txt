@@ -5,7 +5,7 @@ Login credentials:
 
 Username: ATUL RATHORE
 Password: 19115014
-Mobile number: 8770233206
+Mobile number: 8770456276
 
 You can use this both for admin login as well as voterlogin.
 (Note) Username is all caps.

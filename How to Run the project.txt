@@ -1,0 +1,11 @@
+Open the above folder 19115014 as workspace.
+Run the frame2.java file.That is actually the login page.
+
+Login credentials:
+
+Username: ATUL RATHORE
+Password: 19115014
+Mobile number: 8770233206
+
+You can use this both for admin login as well as voterlogin.
+(Note) Username is all caps.
